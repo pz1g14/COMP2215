@@ -10,4 +10,4 @@ An impplementation of the Brick Breaker game for LaFortuna
 3. Create custom levels
 
 
-More information can be found in the user guide included
+More information can be found in the included user guide.
