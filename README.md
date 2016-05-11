@@ -1,5 +1,4 @@
-# COMP2215
-LaFortuna Brick Breaker
+#LaFortuna Brick Breaker
 
 
 An impplementation of the Brick Breaker game for LaFortuna
